@@ -1,0 +1,7 @@
+{
+    "home": {
+        "title": "Hello Angular with ngx translate TR",
+        "text": "This demo has been created usin ngx translate",
+        "select": "Select Language"
+    }
+}
